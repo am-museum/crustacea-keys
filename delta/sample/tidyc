@@ -1,0 +1,17 @@
+*SHOW Tidy the character list (using Confor).
+
+*LISTING FILE tidyc.lst
+
+*INPUT FILE specs
+
+*TRANSLATE INTO DELTA FORMAT
+*OUTPUT WIDTH 80
+
+*OUTPUT FILE chars.new
+
+*OUTPUT PARAMETERS
+#SHOW ~ DELTA sample data - character list
+
+#CHARACTER LIST
+*INPUT FILE chars
+

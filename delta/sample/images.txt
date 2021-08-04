@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"> 
+<!-- Header for images.htm. Used by webimg_.bat -->
+<html> 
+<head> 
+<meta http-equiv="content-type" content="text/html; charset=windows-1252"> 
+<title> 
+DELTA sample data
+- links to images
+</title> 
+<link rel="stylesheet" type="text/css" href="style.css"> 
+<link rel="icon" type="image/gif" href="deltlogo.gif"> 
+</head> 
+<body> 
+ 
+<table width="100%" summary="Heading, logo, and link to DELTA home"> 
+<tr> 
+<td style="padding-top: .15em"> 
+<a href="http://www.delta-intkey.com"><img src="deltlogo.gif" alt="DELTA home"></a>
+</td> 
+<td class="center middle"> 
+<h1> 
+DELTA sample data
+</h1> 
+</td> 
+<td style="padding-right: 36px"></td> 
+</tr> 
+</table> 
+ 
+<p class="author"> 
+M.J. Dallwitz and L. Watson
+</p> 
+ 
+<h3> 
+Links to images
+</h3>
+
+<p>
+These links are used to facilitate downloading the complete set of images
+&ndash; see <a href="data.htm">downloading the images</a>. There is no need
+to do this unless you want to use them offline.
+The images for a particular character or taxon can be viewed directly from
+the <a href="ident.htm">interactive key</a> or
+the <a href="index.htm">descriptions</a>.
+</p>
+
+<p>
+The images are listed in descending order of modification date.
+Their total size is
+500 KB.
+</p>
+
+<hr class="margint1p5">
+
+<p>

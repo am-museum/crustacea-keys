@@ -1,2 +1,2 @@
 # crustacea-keys
-Legacy crustacea project - Australian Museum
+Crustacea Keys - Legacy Australian Museum project

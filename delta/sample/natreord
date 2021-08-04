@@ -1,0 +1,19 @@
+*SHOW Reorder the characters for special natural-language output (using
+Delfor, not Confor). See nat1.bat.
+
+*LISTING FILE nat1ord.lst
+
+*INPUT FILE specs
+
+*COMMENT Put 'leaf' characters before 'culm' characters.
+*NEW CHARACTER ORDER 1-2 7-9 3-6 10-89
+
+*INPUT DELTA FILE confor.cph
+
+*REFORMAT specs
+*REFORMAT chars
+*REFORMAT items
+*REFORMAT empchari
+*REFORMAT empcharm
+*REFORMAT layout
+*REFORMAT newpar

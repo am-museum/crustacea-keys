@@ -1,0 +1,4 @@
+<mm:style name="Body Text" type="char" apply="replace" />
+<mm:style name="Heading" format="h2" align="left" apply="replace" />
+<mm:style name="Species Head" type="char" apply="replace" bold />
+<mm:style name="Sub Head" align="left" apply="replace" bold />

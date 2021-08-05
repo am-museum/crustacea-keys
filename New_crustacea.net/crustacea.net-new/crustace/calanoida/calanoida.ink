@@ -1,4 +1,4 @@
-InkFile=http://www.crustacea.net/crustace/calanoida/calanoida.ink
+InkFile=C:\delta\crustacea\calanoida\calanoida.ink
 InitializationFile=intkey.ini
-DataFile=http://www.crustacea.net/crustace/calanoida/calanoida.zip
-ImagePath=http://www.crustacea.net/crustace/calanoida/images/
+DataFile=C:\delta\crustacea\calanoida\calanoida.zip
+ImagePath=C:\delta\crustacea\calanoida\images

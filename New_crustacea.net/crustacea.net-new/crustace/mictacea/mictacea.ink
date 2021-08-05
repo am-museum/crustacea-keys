@@ -1,4 +1,4 @@
-InkFile=http://www.crustacea.net/crustace/mictacea/mictacea.ink
+InkFile=C:\delta\crustacea\mictacea\mictacea.ink
 InitializationFile=intkey.ini
-DataFile=http://www.crustacea.net/crustace/mictacea/mictacea.zip
-ImagePath=http://www.crustacea.net/crustace/mictacea/images/
+DataFile=C:\delta\crustacea\mictacea\mictacea.zip
+ImagePath=C:\delta\crustacea\mictacea\images

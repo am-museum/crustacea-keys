@@ -1,4 +1,4 @@
-InkFile=http://www.crustacea.net/crustace/amphipoda/ampithoidae/ampithoidae.ink
+InkFile=C:\delta\crustacea\amphipoda\ampithoidae\ampithoidae.ink
 InitializationFile=intkey.ini
-DataFile=http://www.crustacea.net/crustace/amphipoda/ampithoidae/ampithoidae.zip
-ImagePath=http://www.crustacea.net/crustace/amphipoda/ampithoidae/images/
+DataFile=C:\delta\crustacea\amphipoda\ampithoidae\ampithoidae.zip
+ImagePath=C:\delta\crustacea\amphipoda\ampithoidae\images

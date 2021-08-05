@@ -1,4 +1,4 @@
-InkFile=http://www.crustacea.net/crustace/mysidacea/mysidacea.ink
+InkFile=C:\delta\crustacea\mysidacea\mysidacea.ink
 InitializationFile=intkey.ini
-DataFile=http://www.crustacea.net/crustace/mysidacea/mysidacea.zip
-ImagePath=http://www.crustacea.net/crustace/mysidacea/images/
+DataFile=C:\delta\crustacea\mysidacea\mysidacea.zip
+ImagePath=C:\delta\crustacea\mysidacea\images

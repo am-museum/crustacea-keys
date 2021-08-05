@@ -1,4 +1,4 @@
-InkFile=http://www.crustacea.net/crustace/remipedia/remipedia.ink
+InkFile=C:\delta\crustacea\remipedia\remipedia.ink
 InitializationFile=intkey.ini
-DataFile=http://www.crustacea.net/crustace/remipedia/remipedia.zip
-ImagePath=http://www.crustacea.net/crustace/remipedia/images/
+DataFile=C:\delta\crustacea\remipedia\remipedia.zip
+ImagePath=C:\delta\crustacea\remipedia\images

@@ -1,4 +1,4 @@
-InkFile=http://www.crustacea.net/crustace/stomatopoda/stomatop.ink
+InkFile=C:\delta\crustacea\stomatopoda\stomatop.ink
 InitializationFile=intkey.ini
-DataFile=http://www.crustacea.net/crustace/stomatopoda/stomatop.zip
-ImagePath=http://www.crustacea.net/crustace/stomatopoda/images/
+DataFile=C:\delta\crustacea\stomatopoda\stomatop.zip
+ImagePath=C:\delta\crustacea\stomatopoda\images

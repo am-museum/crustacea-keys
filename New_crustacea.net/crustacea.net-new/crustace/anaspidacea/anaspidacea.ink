@@ -1,4 +1,4 @@
-InkFile=http://www.crustacea.net/crustace/anaspidacea/anaspidacea.ink
+InkFile=C:\delta\crustacea\anaspidacea\anaspidacea.ink
 InitializationFile=intkey.ini
-DataFile=http://www.crustacea.net/crustace/anaspidacea/anaspidacea.zip
-ImagePath=http://www.crustacea.net/crustace/anaspidacea/images/
+DataFile=C:\delta\crustacea\anaspidacea\anaspidacea.zip
+ImagePath=C:\delta\crustacea\anaspidacea\images

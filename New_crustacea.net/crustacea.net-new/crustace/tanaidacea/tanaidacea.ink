@@ -1,4 +1,4 @@
-InkFile=http://www.crustacea.net/crustace/tanaidacea/tanaidacea.ink
+InkFile=C:\delta\crustacea\tanaidacea\tanaidacea.ink
 InitializationFile=intkey.ini
-DataFile=http://www.crustacea.net/crustace/tanaidacea/tanaidacea.zip
-ImagePath=http://www.crustacea.net/crustace/tanaidacea/images/
+DataFile=C:\delta\crustacea\tanaidacea\tanaidacea.zip
+ImagePath=C:\delta\crustacea\tanaidacea\images

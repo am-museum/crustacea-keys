@@ -1,8 +1,0 @@
-*COMMENT Default parameter values (set explicitly).
-
-*HEADING DELTA sample data. Key 1 - default parameters.
-*RBASE 1.40
-*VARYWT 0.8
-*NUMBER OF CONFIRMATORY CHARACTERS 0
-*COMMENT Non-default value for PRINT WIDTH.
-*PRINT WIDTH 78

@@ -1,6 +1,0 @@
-*COMMENT Generate distance matrix.
-
-*LISTING FILE dist.lst
-*ITEMS FILE ditems
-*OUTPUT FILE grass.dis
-*MINIMUM NUMBER OF COMPARISONS 7

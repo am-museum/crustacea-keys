@@ -1,0 +1,26 @@
+*SHOW Print the character list as RTF.
+
+*LISTING FILE printcr.lst  *NO DATA LISTING
+*OUTPUT DIRECTORY rtf
+*PRINT FILE chars.rtf
+
+*INPUT FILE specs
+
+*PRINT CHARACTER LIST
+
+*INPUT FILE markrtf
+*INPUT FILE headc
+*INPUT FILE cnotes
+
+*OMIT INNER COMMENTS
+
+*PRINT COMMENT
+\pard\plain\s1\qc\sb0\sa100\keepn\b\f2\fs32\kerning28{}
+DELTA sample data
+
+\par\pard\plain\qc\sb100\sa100\b\f2\fs24{}
+M.J. Dallwitz and L. Watson
+
+\par\pard\plain\s2\qc\sb500\sa100\keepn\b\f2\fs28\kerning28{}Character list
+
+*INPUT FILE chars

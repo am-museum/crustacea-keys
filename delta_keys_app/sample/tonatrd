@@ -1,0 +1,22 @@
+*SHOW Translate into natural language - diagnostic descriptions, RTF.
+ 
+*LISTING FILE tonatrd.lst
+*OUTPUT DIRECTORY rtf
+*PRINT FILE descdiag.rtf
+
+*INPUT FILE specs
+ 
+*TRANSLATE INTO NATURAL LANGUAGE
+
+*INPUT FILE markrtf
+
+*INPUT FILE layoutd 
+*INPUT FILE empchari
+*INPUT FILE empcharm
+
+*INPUT FILE chars
+
+*PRINT COMMENT
+\par\pard\plain\s2\qc\sb500\sa400\keepn\b\f2\fs28\kerning28{} Diagnostic descriptions 
+ 
+*INPUT FILE items

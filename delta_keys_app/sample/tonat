@@ -1,0 +1,22 @@
+*SHOW Translate into natural language - plain text.
+
+*HEADING DELTA sample data
+
+*LISTING FILE tonat.lst
+*PRINT FILE tonat.prt
+
+*INPUT FILE specs
+
+*TRANSLATE INTO NATURAL LANGUAGE
+
+*INPUT FILE layout
+*INPUT FILE newpar
+
+*OMIT TYPESETTING MARKS
+*PRINT WIDTH 76
+
+*INPUT FILE chars
+
+*PRINT HEADING
+
+*INPUT FILE items

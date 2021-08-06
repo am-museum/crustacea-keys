@@ -1,0 +1,17 @@
+*SHOW Tidy the items file (using Confor).
+
+*LISTING FILE tidyi.lst
+
+*INPUT FILE specs
+
+*TRANSLATE INTO DELTA FORMAT
+*OUTPUT WIDTH 80
+
+*OUTPUT FILE items.new
+
+*OUTPUT PARAMETERS
+#SHOW ~ DELTA sample data - item descriptions
+
+#ITEM DESCRIPTIONS
+*INPUT FILE items
+

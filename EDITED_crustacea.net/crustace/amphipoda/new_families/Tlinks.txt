@@ -1,0 +1,101 @@
+*TAXON LINKS
+# Acidostoma Group / Acidosto.rtf <@subject Full description>
+# Amaryllidid Group / Amarylli.rtf <@subject Full description>
+# Amathillopsidae / Amathill.rtf <@subject Full description>
+# Ampeliscidae / http://crustacea.net/delta/AusAmpeliscidae/Ampelisc.ink <@subject Key to Ampeliscid Species> Ampelisc.rtf <@subject Full description>
+# Amphilochidae/ Amphiloc.rtf <@subject Full description>
+# Ampithoidae/ Ampithoi.rtf <@subject Full description>
+# Aoridae / Aoridae.rtf <@subject Full description>
+# Aristiidae / Aristiid.rtf <@subject Full description>
+# Biancolinidae / Biancoli.rtf <@subject Full description>
+# Bogidiellidae / Bogidiel.rtf <@subject Full description>
+# Brachyscelidae / Brachysc.rtf <@subject Full description>
+# Caprellidae / Caprelli.rtf <@subject Full description>
+# Cebocaris Group / Cebocari.rtf <@subject Full description>
+# Ceinidae / Ceininae.rtf <@subject Full description>
+# Ceradocopsis Group / Ceradoco.rtf <@subject Full description>
+# Cheirocratid Group / Cheirocr.rtf <@subject Full description>
+# Cheluridae / Chelurid.rtf <@subject Full description>
+# Colomastigidae / Colomast.rtf <@subject Full description>
+# Condukiidae / Condukii.rtf <@subject Full description>
+# Corophiidae / Corophii.rtf <@subject Full description>
+# Cyamidae <start>/ Cyamidae.rtf <@subject Full description>
+# Cyphocarididae / Cyphocar.rtf <@subject Full description>
+# Cyproideidae / Cyproide.rtf <@subject Full description>
+# Cystisomatidae / Cystisom.rtf <@subject Full description>
+# Dexaminidae / Dexamin1.rtf <@subject Full description>
+# Endevouridae / Endevour.rtf <@subject Full description>
+# Eophliantidae / Eophlian.rtf <@subject Full description>
+# Epimeriidae <not currently included>/ Epimerii.rtf <@subject Full description>
+# Eurythenes Group / Eurythen.rtf <@subject Full description>
+# Eusiridae / http://crustacea.net/delta/AusEusiridae/Eusirid.ink <@subject Key to Eusirid Species> Eusirida.rtf <@subject Full description>
+# Exoedicerotidae / Exoedice.rtf <@subject Full description>
+# Hadziidae / Hadziida.rtf <@subject Full description>
+# Hirondellea Group / Hirondel.rtf <@subject Full description>
+# Hyalellidae <RESCORE>/ Hyalelli.rtf <@subject Full description>
+# Hyalidae <RESCORE>/ Hyalidae.rtf <@subject Full description>
+# Hyperiidae / Hyperiid.rtf <@subject Full description>
+# Hyperiopsidae / Hyperiop.rtf <@subject Full description>
+# Iciliidae / Iciliida.rtf <@subject Full description>
+# Ingolfiellidae / Ingolfie.rtf <@subject Full description>
+# Iphimediidae / Iphimedi.rtf <@subject Full description>
+# Isaeidae / Isaeidae.rtf <@subject Full description>
+# Ischyroceridae / Ischyro1.rtf <@subject Full description>
+# Kerguelenia Group / Kerguele.rtf <@subject Full description>
+# Lanceolidae/ Lanceoli.rtf <@subject Full description>
+# Laphystiopsidae / Laphysti.rtf <@subject Full description>
+# Lepidepecreella Group / Lepidepe.rtf <@subject Full description>
+# Leucothoidae / http://crustacea.net/delta/AusLeucothoidae/Leucotho.ink <@subject Key to Leucothoid Species> Leucotho.rtf <@subject Full description>
+# Liljeborgiidae / Liljebor.rtf <@subject Full description>
+# Lycaeidae / Lycaeida.rtf <@subject Full description>
+# Lycaeopsidae / Lycaeops.rtf <@subject Full description>
+# Lysianassidae / lysianas.rtf <@subject Full description>
+# Maxillipiidae / Maxillip.rtf <@subject Full description>
+# Melitidae / Melita.rtf <@subject Full description>
+# Melphidippidae / Melphidi.rtf <@subject Full description>
+# Neomegamphopidae <not currently included>/ Neomegam.rtf <@subject Full description>
+# Neoniphargidae / Neonipha.rtf <@subject Full description>
+# Nihotungidae / Nihotung.rtf <@subject Full description>
+# Ochlesidae / Ochlesin.rtf <@subject Full description>
+# Oedicerotidae / Oedicero.rtf <@subject Full description>
+# Opisidae / Opisidae.rtf <@subject Full description>
+# Oxycephalidae / Oxycepha.rtf <@subject Full description>
+# Pachynus Group / Pachynus.rtf <@subject Full description>
+# Pagetinidae  <not currently included>/ Pagetini.rtf <@subject Full description>
+# Paracalliopiidae / Paracall.rtf <@subject Full description>
+# Paramelitidae / Parameli.rtf <@subject Full description>
+# Paraphronimidae / Paraphro.rtf <@subject Full description>
+# Parascelidae / Parascel.rtf <@subject Full description>
+# Pardaliscidae / Pardalis.rtf <@subject Full description>
+# Pariambidae / Pariambi.rtf <@subject Full description>
+# Perthiidae / Perthiid.rtf <@subject Full description>
+# Phliantidae / Phlianti.rtf <@subject Full description>
+# Phoxocephalidae / Phoxoce1.rtf <@subject Full description>
+# Phronimidae / Phronimi.rtf <@subject Full description>
+# Phrosinidae / Phrosini.rtf <@subject Full description>
+# Phtisicidae / Phtisic1.rtf <@subject Full description>
+# Platyischnopidae/ Platyisc.rtf <@subject Full description>
+# Platyscelidae / Platysce.rtf <@subject Full description>
+# Podoceridae/ Podocer1.rtf <@subject Full description>
+# Pronoidae / Pronoida.rtf <@subject Full description>
+# Protellidae / Protelli.rtf <@subject Full description>
+# Scinidae / Scinidae.rtf <@subject Full description>
+# Scopelocheiridae / Scopeloc.rtf <@subject Full description>
+# Sebidae / Sebidae.rtf <@subject Full description>
+# Sophrosyne Group / Sophrosy.rtf <@subject Full description>
+# Stegocephalidae / Stegocep.rtf <@subject Full description>
+# Stenothoidae / Stenotho.rtf <@subject Full description>
+# Stilipedidae / Stiliped.rtf <@subject Full description>
+# Synopiidae / Synopiid.rtf <@subject Full description>
+# Talitridae / Talitrid.rtf <@subject Full description>
+# Thoriella Group/ Thoriell.rtf <@subject Full description>
+# Trischizostomatidae / Trischiz.rtf <@subject Full description>
+# Urohaustoriidae / Urohaust.rtf <@subject Full description>
+# Uronyctid Group <Move into neoniphargids> / Uronycti.rtf <@subject Full description>
+# Urothoidae / Urothoid.rtf <@subject Full description>
+# Valettiopsid Group / Valettio.rtf <@subject Full description>
+# Vibiliidae / Vibiliid.rtf <@subject Full description>
+# Vicmusiidae / Vicmusii.rtf <@subject Full description>
+# Wandinidae / Wandinid.rtf <@subject Full description>
+# Zobrachoidae / Zobracho.rtf <@subject Full description>
+

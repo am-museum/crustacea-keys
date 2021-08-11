@@ -1,4 +1,4 @@
-InkFile=C:\delta\crustacea\spelaeogriphacea\spelaeogriphacea.ink
+InkFile=https://crustacea.net/crustacea/spelaeogriphacea/spelaeogriphacea.ink
 InitializationFile=intkey.ini
-DataFile=C:\delta\crustacea\spelaeogriphacea\spelaeogriphacea.zip
-ImagePath=C:\delta\crustacea\spelaeogriphacea\images
+DataFile=https://crustacea.net/crustacea/spelaeogriphacea/spelaeogriphacea.zip
+ImagePath=https://crustacea.net/crustacea/spelaeogriphacea/images

@@ -1,4 +1,4 @@
-InkFile=http://www.crustacea.net/crustace/mysidacea/aus/AusMysids.ink
+InkFile=https://crustacea.net/crustace/mysidacea/aus/AusMysids.ink
 InitializationFile=intkey.ink
-DataFile=http://www.crustacea.net/crustace/mysidacea/aus/AusMysids.zip
-ImagePath=http://www.crustacea.net/crustace/mysidacea/aus/images/
+DataFile=https://www.crustacea.net/crustace/mysidacea/aus/AusMysids_old.zip
+ImagePath=https://www.crustacea.net/crustace/mysidacea/aus/images/

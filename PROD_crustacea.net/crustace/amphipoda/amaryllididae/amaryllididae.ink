@@ -1,4 +1,4 @@
-InkFile=C:\delta\crustacea\amphipoda\amaryllididae\amaryllididae.ink
+InkFile=https://crustacea.net/crustacea/amphipoda/amaryllididae/amaryllididae.ink
 InitializationFile=intkey.ini
-DataFile=C:\delta\crustacea\amphipoda\amaryllididae\amaryllididae.zip
-ImagePath=C:\delta\crustacea\amphipoda\amaryllididae\images
+DataFile=https://crustacea.net/crustacea/amphipoda/amaryllididae/amaryllididae.zip
+ImagePath=https://crustacea.net/crustacea/amphipoda/amaryllididae/images

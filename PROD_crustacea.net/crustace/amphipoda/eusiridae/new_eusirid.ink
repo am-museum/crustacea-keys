@@ -1,4 +1,4 @@
-InkFile=C:\delta\crustacea\amphipoda\eusiridae\new_eusirid.ink
+InkFile=https://crustacea.net/crustacea/amphipoda/eusiridae/new_eusirid.ink
 InitializationFile=intkey.ini
-DataFile=C:\delta\crustacea\amphipoda\eusiridae\new_eusirid.zip
-ImagePath=C:\delta\crustacea\amphipoda\eusiridae\images
+DataFile=https://crustacea.net/crustacea/amphipoda/eusiridae/new_eusirid.zip
+ImagePath=https://crustacea.net/crustacea/amphipoda/eusiridae/images

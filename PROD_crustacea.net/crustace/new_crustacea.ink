@@ -1,4 +1,4 @@
-InkFile=C:\delta\crustacea\new_crustacea.ink
+InkFile=https://crustacea.net/crustacea/new_crustacea.ink
 InitializationFile=intkey.ini
-DataFile=C:\delta\crustacea\new_crustacea.zip
-ImagePath=C:\delta\crustacea\images
+DataFile=https://crustacea.net/crustacea/new_crustacea.zip
+ImagePath=https://crustacea.net/crustacea/images

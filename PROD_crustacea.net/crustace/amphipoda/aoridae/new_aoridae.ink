@@ -1,4 +1,4 @@
-InkFile=C:\delta\crustacea\amphipoda\aoridae\new_aoridae.ink
+InkFile=https://crustacea.net/crustacea/amphipoda/aoridae/new_aoridae.ink
 InitializationFile=intkey.ini
-DataFile=C:\delta\crustacea\amphipoda\aoridae\new_aoridae.zip
-ImagePath=C:\delta\crustacea\amphipoda\aoridae\images
+DataFile=https://crustacea.net/crustacea/amphipoda/aoridae/new_aoridae.zip
+ImagePath=https://crustacea.net/crustacea/amphipoda/aoridae/images

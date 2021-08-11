@@ -1,4 +1,4 @@
-InkFile=C:\delta\crustacea\isopoda\isopoda.ink
+InkFile=https://crustacea.net/crustacea/isopoda/isopoda.ink
 InitializationFile=intkey.ini
-DataFile=C:\delta\crustacea\isopoda\isopoda.zip
-ImagePath=C:\delta\crustacea\isopoda\images\
+DataFile=https://crustacea.net/crustacea/isopoda/isopoda.zip
+ImagePath=https://crustacea.net/crustacea/isopoda/images

@@ -1,4 +1,4 @@
-InkFile=C:\delta\crustacea\amphipoda\melitidae\new_melitid.ink
+InkFile=https://crustacea.net/crustacea/amphipoda/melitidae/new_melitid.ink
 InitializationFile=intkey.ink
-DataFile=C:\delta\crustacea\crustace\amphipoda\melitidae\new_melitidae.zip
-ImagePath=C:\delta\crustacea\amphipoda\melitidae\images
+DataFile=https://crustacea.net/crustacea/crustace/amphipoda/melitidae/new_melitidae.zip
+ImagePath=https://crustacea.net/crustacea/amphipoda/melitidae/images

@@ -1,4 +1,4 @@
-InkFile=C:\delta\crustacea\amphipoda\leucothoidae\new_leucotho.ink
+InkFile=https://crustacea.net/crustacea/amphipoda/leucothoidae/new_leucotho.ink
 InitializationFile=intkey.ini
-DataFile=C:\delta\crustacea\amphipoda\leucothoidae\new_leucotho.zip
-ImagePath=C:\delta\crustacea\amphipoda\leucothoidae\images
+DataFile=https://crustacea.net/crustacea/amphipoda/leucothoidae/new_leucotho.zip
+ImagePath=https://crustacea.net/crustacea/amphipoda/leucothoidae/images

@@ -1,4 +1,4 @@
-InkFile=http://crustacea.net/crustace/anomura/anomura.ink
+InkFile=https://crustacea.net/crustace/anomura/anomura1.ink
 InitializationFile=intkey.ini
-DataFile=http://crustacea.net/crustace/anomura/anomura1.zip
-ImagePath=http://crustacea.net/crustace/anomura/images/
+DataFile=https://crustacea.net/crustace/anomura/anomura1.zip
+ImagePath=https://crustacea.net/crustace/anomura/images/

@@ -1,4 +1,4 @@
-InkFile=http://crustacea.net/crustace/amphipoda/families.ink
+InkFile=https://crustacea.net/crustace/amphipoda/families.ink
 InitializationFile=intkey.ini
-DataFile=http://crustacea.net/crustace/amphipoda/families.zip
-ImagePath=http://crustacea.net/crustace/amphipoda/images/
+DataFile=https://crustacea.net/crustace/amphipoda/families.zip
+ImagePath=https://crustacea.net/crustace/amphipoda/images/

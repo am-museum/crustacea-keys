@@ -1,4 +1,4 @@
-﻿InkFile=http://crustacea.net/crustace/amphipoda/urohaustorids/urohaustoriidae.ink
+﻿InkFile=https://crustacea.net/crustace/amphipoda/urohaustorids/urohaustoriidae.ink
 InitializationFile=intkey.ink
-DataFile=http://crustacea.net/crustace/amphipoda/urohaustorids/Urohaustoriidae.zip
-ImagePath=http://crustacea.net/crustace/amphipoda/urohaustorids/images/
+DataFile=https://crustacea.net/crustace/amphipoda/urohaustorids/Urohaustoriidae.zip
+ImagePath=https://crustacea.net/crustace/amphipoda/urohaustorids/images/

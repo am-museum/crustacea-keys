@@ -2,7 +2,7 @@
 # Acidostoma Group / Acidosto.rtf <@subject Full description>
 # Amaryllidid Group / Amarylli.rtf <@subject Full description>
 # Amathillopsidae / Amathill.rtf <@subject Full description>
-# Ampeliscidae / http://crustacea.net/delta/AusAmpeliscidae/Ampelisc.ink <@subject Key to Ampeliscid Species> Ampelisc.rtf <@subject Full description>
+# Ampeliscidae / https://crustacea.net/delta/AusAmpeliscidae/Ampelisc.ink <@subject Key to Ampeliscid Species> Ampelisc.rtf <@subject Full description>
 # Amphilochidae/ Amphiloc.rtf <@subject Full description>
 # Ampithoidae/ Ampithoi.rtf <@subject Full description>
 # Aoridae / Aoridae.rtf <@subject Full description>
@@ -28,7 +28,7 @@
 # Eophliantidae / Eophlian.rtf <@subject Full description>
 # Epimeriidae <not currently included>/ Epimerii.rtf <@subject Full description>
 # Eurythenes Group / Eurythen.rtf <@subject Full description>
-# Eusiridae / http://crustacea.net/delta/AusEusiridae/Eusirid.ink <@subject Key to Eusirid Species> Eusirida.rtf <@subject Full description>
+# Eusiridae / https://crustacea.net/delta/AusEusiridae/Eusirid.ink <@subject Key to Eusirid Species> Eusirida.rtf <@subject Full description>
 # Exoedicerotidae / Exoedice.rtf <@subject Full description>
 # Hadziidae / Hadziida.rtf <@subject Full description>
 # Hirondellea Group / Hirondel.rtf <@subject Full description>
@@ -45,7 +45,7 @@
 # Lanceolidae/ Lanceoli.rtf <@subject Full description>
 # Laphystiopsidae / Laphysti.rtf <@subject Full description>
 # Lepidepecreella Group / Lepidepe.rtf <@subject Full description>
-# Leucothoidae / http://crustacea.net/delta/AusLeucothoidae/Leucotho.ink <@subject Key to Leucothoid Species> Leucotho.rtf <@subject Full description>
+# Leucothoidae / https://crustacea.net/delta/AusLeucothoidae/Leucotho.ink <@subject Key to Leucothoid Species> Leucotho.rtf <@subject Full description>
 # Liljeborgiidae / Liljebor.rtf <@subject Full description>
 # Lycaeidae / Lycaeida.rtf <@subject Full description>
 # Lycaeopsidae / Lycaeops.rtf <@subject Full description>
